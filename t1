@@ -1,0 +1,4 @@
+total 4
+-r--------. 1 ec2-user ec2-user 1674 Aug 17 08:18 megha_test.pem
+-rw-r--r--. 1 ec2-user ec2-user    0 Aug 17 08:18 t2
+-rw-r--r--. 1 ec2-user ec2-user    0 Aug 17 08:18 t1
